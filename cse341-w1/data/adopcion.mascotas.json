@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "67ccfeef9da2e99c517afca6"
+  },
+  "nombre": "Sirius",
+  "tipo": "Gato",
+  "raza": "Siames",
+  "edad": 2
+},
+{
+  "_id": {
+    "$oid": "67ccff375244b0325329440a"
+  },
+  "nombre": "Luna",
+  "tipo": "Gato",
+  "raza": "Blanca",
+  "edad": 1
+},
+{
+  "_id": {
+    "$oid": "67ccffcad0dc3228d96f474d"
+  },
+  "nombre": "StarSky",
+  "tipo": "Perro",
+  "raza": "Blanca",
+  "edad": 2
+}]
